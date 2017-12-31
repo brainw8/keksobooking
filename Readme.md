@@ -1,6 +1,6 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Вячеслав Забоев](https://up.htmlacademy.ru/javascript/11/user/52271).
+
 * Наставник: `Неизвестно`.
 
 ---
